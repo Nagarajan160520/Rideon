@@ -1,0 +1,16 @@
+.title-line{
+    border: 1px solid red;
+    width: 80px;
+    border-radius: 10px;
+  }
+
+  .icon-borders{
+    border: 4px rgb(141, 1, 1) solid;
+    text-align: center;
+    width: 80px;
+  }
+
+  .p1 {
+    font-size: larger;
+    text-align: justify;
+  }
